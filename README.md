@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shrxyas-246/shrxyas-246/main/banner.svg" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=C1121F&center=true&vCenter=true&width=620&lines=the+light+fails+%2F%2F+the+work+does+not;ai+engineer+%C2%B7+ml+systems+%C2%B7+applied+research;python+%7C+pytorch+%7C+llms+%7C+rag" alt="typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=C1121F&center=true&vCenter=true&width=600&lines=the+light+fails+and+the+work+does+not;ai+engineer+and+ml+systems;python+pytorch+llms+rag" alt="typing"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/-applied%20ml-07030a?style=for-the-badge&labelColor=a10e22"/>
 <img src="https://img.shields.io/badge/-always%20shipping-07030a?style=for-the-badge&labelColor=5c0a18"/>
-<img src="https://komarev.com/ghpvc/?username=shrxyas-246&label=souls%20passed%20through&color=a10e22&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=shrxyas-246&label=profile+views&color=a10e22&style=for-the-badge"/>
 
 </div>
 
